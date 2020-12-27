@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+     max-width: 100%;
+     height: auto;
+     margin: 0 5%;
+     text-align: justify;
+     background-color: rgb(226, 223, 223);
+  }
+  #main{
+      box-shadow: 5px 5px 5px gray;
+  }
+  #title h1{
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    font-size: 2.5em;
+  }
+  hr{
+      width: 10%;
+      margin: 0.5% auto;
+      margin-bottom: 1%;
+      height: 2px;
+      background-color: red;
+  }
+  #img-div{
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    background-color: silver;
+    padding: 2%;
+  }
+  #image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0% auto;
+    
+  }
+  #img-caption{
+    font-style: italic;
+    font-family: Lato;
+    
+  }
+  .tribute{
+      background-color: transparent;
+      text-align: justify;
+      padding: 2%;
+      background-color: #fff;
+  }
+  #tribute-info{
+      margin-bottom: 1%;
+      text-align: center;
+      background-color: #fff;
+  }
+  .about{
+      padding: 2%;
+      background-color: silver;
+  }
+  .about h2{
+      text-align: center;
+
+  }
+   
+  .descovered{
+      padding: 2%;   
+      background-color: #fff;
+  }
+  .descovered h2{
+      text-align: center;
+  }
+  .link{
+      text-align: center;
+      background-color: silver;
+  }
+  #tribute-link{
+      text-decoration: none;
+      
+  }
